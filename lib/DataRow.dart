@@ -24,8 +24,8 @@ class PlanetRow extends StatelessWidget {
 //      height: 156.0,
       margin: new EdgeInsets.only(left:0.0),
       decoration: new BoxDecoration(
-//        color: new Color(0xFF333366),
-        color: Colors.white,
+//        color: Colors.white,
+        color: planet.color,
         shape: BoxShape.rectangle,
         border: Border.all(),
         borderRadius: new BorderRadius.circular(0.0),
