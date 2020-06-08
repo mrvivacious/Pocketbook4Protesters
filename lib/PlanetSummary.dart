@@ -20,30 +20,32 @@ class PlanetSummary extends StatelessWidget {
           vertical: 16.0
       ),
       alignment: horizontal ? FractionalOffset.centerLeft : FractionalOffset.center,
-      child: new Hero(
-        tag: "planet-hero-${planet.id}",
-        child: new Image.network(
-          planet.picture,
-          height: 92.0,
-          width: 92.0,
-        ),
-      ),
+//      child: new Hero(
+//        tag: "planet-hero-${planet.id}",
+//        child: new Container()
+//
+////        new Image.network(
+////          planet.picture,
+////          height: 92.0,
+////          width: 92.0,
+////        ),
+//      ),
     );
 
 
 
-    Widget _planetValue({String value, String image}) {
-      return new Container(
-        child: new Row(
-            mainAxisSize: MainAxisSize.min,
-            children: <Widget>[
-              new Image.network(planet.picture, height: 12.0),
-              new Container(width: 8.0),
-              new Text(planet.gravity),
-            ]
-        ),
-      );
-    }
+//    Widget _planetValue({String value, String image}) {
+//      return new Container(
+//        child: new Row(
+//            mainAxisSize: MainAxisSize.min,
+//            children: <Widget>[
+////              new Image.network(planet.picture, height: 12.0),
+//              new Container(width: 8.0),
+////              new Text(planet.gravity),
+//            ]
+//        ),
+//      );
+//    }
 
 
     final planetCardContent = new Container(
@@ -53,31 +55,31 @@ class PlanetSummary extends StatelessWidget {
         crossAxisAlignment: horizontal ? CrossAxisAlignment.start : CrossAxisAlignment.center,
         children: <Widget>[
           new Container(height: 4.0),
-          new Text(planet.name,),
-          new Container(height: 10.0),
-          new Text(planet.location,),
-          new Separator(),
-          new Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: <Widget>[
-              new Expanded(
-                  flex: horizontal ? 1 : 0,
-                  child: _planetValue(
-                      value: planet.distance,
-                      )
-
-              ),
-              new Container (
-                width: 32.0,
-              ),
-              new Expanded(
-                  flex: horizontal ? 1 : 0,
-                  child: _planetValue(
-                      value: planet.gravity,
-                      )
-              )
-            ],
-          ),
+          new Text(planet.name, style: TextStyle(color: Colors.white, fontSize: 32.0),),
+//          new Container(height: 10.0),
+//          new Text(planet.location,),
+//          new Separator(),
+//          new Row(
+//            mainAxisAlignment: MainAxisAlignment.center,
+//            children: <Widget>[
+////              new Expanded(
+////                  flex: horizontal ? 1 : 0,
+////                  child: _planetValue(
+////                      value: planet.distance,
+////                      )
+////
+////              ),
+//              new Container (
+//                width: 32.0,
+//              ),
+////              new Expanded(
+////                  flex: horizontal ? 1 : 0,
+////                  child: _planetValue(
+////                      value: planet.gravity,
+////                      )
+////              )
+//            ],
+//          ),
         ],
       ),
     );
@@ -85,7 +87,7 @@ class PlanetSummary extends StatelessWidget {
 
     final planetCard = new Container(
       child: planetCardContent,
-      height: horizontal ? 124.0 : 154.0,
+      height: horizontal ? 94.0 : 124.0,
       margin: horizontal
           ? new EdgeInsets.only(left: 46.0)
           : new EdgeInsets.only(top: 72.0),

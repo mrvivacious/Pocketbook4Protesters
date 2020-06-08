@@ -13,17 +13,19 @@ class DetailPage extends StatelessWidget {
   Widget build(BuildContext context) {
     Container _getBackground() {
       return new Container(
-        child: new Image.network(planet.picture,
-        fit: BoxFit.cover,
-          height: 300.0,
+//        child: new Image.network(planet.picture,
+        child: Image.asset(
+          planet.image,
+          fit: BoxFit.cover,
+          height: 270.0,
         ),
-        constraints: new BoxConstraints.expand(height: 300.0),
+        constraints: new BoxConstraints.expand(height: 270.0),
       );
     }
 
     Container _getGradient() {
       return new Container(
-        margin: new EdgeInsets.only(top: 190.0),
+        margin: new EdgeInsets.only(top: 160.0),
         height: 110.0,
         decoration: new BoxDecoration(
           gradient: new LinearGradient(
