@@ -1,0 +1,21 @@
+Todos.txt
+Track the app progress
+
+CURRENT:
+
+TODO::
+Change the UI of the detail pages
+Replace the planet data with the protest info
+Work cited page
+Use different image banners (or just colors....something nice)
+
+-- Low priority
+Dark theme
+Google analytics lmfa000000
+Do we want to use a diff font?
+
+COMPLETED::
+
+Figure out how to use resources from Assets/
+Upload the logo
+Do the tutorial
