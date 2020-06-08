@@ -1,21 +1,21 @@
 Todos.txt
 Track the app progress
 
-CURRENT:
+== CURRENT ==
 
-TODO::
+== TODO ==
 Change the UI of the detail pages
 Replace the planet data with the protest info
 Work cited page
-Use different image banners (or just colors....something nice)
 
 -- Low priority
 Dark theme
 Google analytics lmfa000000
 Do we want to use a diff font?
 
-COMPLETED::
-
+== COMPLETED ==
+Color the text based on the background color
+Use different image banners (or just colors....something nice)
 Figure out how to use resources from Assets/
 Upload the logo
 Do the tutorial

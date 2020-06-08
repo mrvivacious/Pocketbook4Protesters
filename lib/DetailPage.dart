@@ -43,7 +43,7 @@ class DetailPage extends StatelessWidget {
     }
 
     Container _getContent() {
-      final _overviewTitle = "Overview".toUpperCase();
+//      final _overviewTitle = "Overview".toUpperCase();
       return new Container(
         child: new ListView(
           padding: new EdgeInsets.fromLTRB(0.0, 72.0, 0.0, 32.0),
@@ -56,13 +56,13 @@ class DetailPage extends StatelessWidget {
               child: new Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
-                  new Text(
-                    _overviewTitle,
-                    ),
-                  new Separator(),
+//                  new Text(
+//                    _overviewTitle,
+//                    ),
+//                  new Separator(),
                   new Text(
                       planet.description,
-                      style: new TextStyle(color: Colors.white),
+                      style: new TextStyle(color: planet.textColor),
                   ),
                 ],
               ),
