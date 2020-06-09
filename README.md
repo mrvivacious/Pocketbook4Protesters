@@ -1,6 +1,6 @@
 # pocketbook_for_protesters
 
-BLM 2020 rip Mr Floyd
+BLM 2020 protest companion
 
 ## Getting Started
 
