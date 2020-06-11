@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class GradientAppBar extends StatelessWidget {
   final String title;
-  final double barHeight = 66.0;
+  final double barHeight = 50.0;
 
   GradientAppBar(this.title);
 
@@ -19,7 +19,7 @@ class GradientAppBar extends StatelessWidget {
       height: statusBarHeight + barHeight,
 
       decoration: new BoxDecoration(
-        color: Colors.white,
+        color: Color(0xFF2b180e),
 //        gradient: new LinearGradient(
 //          // Colors to use in the gradient (two shades of blue)
 //          colors: [
@@ -41,7 +41,7 @@ class GradientAppBar extends StatelessWidget {
         child: new Text(
           title,
           style: const TextStyle(
-            color: Colors.black,
+            color: Colors.white,
             fontSize: 24.0,
             fontFamily: 'Poppins',
           )

@@ -44,11 +44,11 @@ flutter:
   assets:
     - Assets/Images/p4p.jpg
     - Assets/Images/p4p_logo_black.jpg
-    - Assets/Images/sunset.jpg
-    - Assets/Images/sky.jpg
-    - Assets/Images/stars.jpg
-    - Assets/Images/flowers.jpg
-    - Assets/Images/leaves.jpg
+    - Assets/Images/cool.jpg
+    - Assets/Images/BLM.jpg
+    - Assets/Images/a_better_world.jpg
+    - Assets/Images/blm_color.jpg
+    - Assets/Images/dfp.jpg
 
 
 
