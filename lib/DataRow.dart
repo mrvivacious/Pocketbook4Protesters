@@ -13,7 +13,7 @@ class PlanetRow extends StatelessWidget {
       margin: new EdgeInsets.symmetric(
         vertical: 16.0,
       ),
-      alignment: FractionalOffset.centerLeft,
+      alignment: FractionalOffset.centerRight,
       // Thank you, https://flutter.dev/docs/cookbook/images/network-image
       child: new Image.network(planet.picture),
       height: 92.0,
@@ -31,7 +31,7 @@ class PlanetRow extends StatelessWidget {
         borderRadius: new BorderRadius.circular(0.0),
         boxShadow: <BoxShadow>[
           new BoxShadow(
-            color: Colors.black12,
+            color: Colors.brown,
             blurRadius: 10.0,
             offset: new Offset(0.0, 10.0),
           ),
@@ -46,10 +46,10 @@ class PlanetRow extends StatelessWidget {
         tag: "planet-hero-${planet.id}",
         child: Text(
             planet.name,
-            textAlign: TextAlign.left,
+            textAlign: TextAlign.center,
             style: TextStyle(
-                color: Colors.black,
-                fontSize: 20.0,
+                color: Colors.white,
+                fontSize: 23.0,
                 fontFamily: 'Poppins'
             ),
         ),

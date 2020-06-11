@@ -17,7 +17,7 @@ class DetailPage extends StatelessWidget {
         child: Image.asset(
           planet.image,
           fit: BoxFit.cover,
-          height: 270.0,
+          height: 240.0,
         ),
         constraints: new BoxConstraints.expand(height: 270.0),
       );
