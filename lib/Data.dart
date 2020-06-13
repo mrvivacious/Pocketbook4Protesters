@@ -83,18 +83,18 @@ List<Planet> planets = [
   ),
   const Planet(
       id: "6",
-      name: "COVID19 / After Protesting",
-      description: "o When you get home after protesting, "
+      name: "After Protesting",
+      description: "• When you get home after protesting, "
           "take a shower to get rid of any potential germs. "
-              "If you were exposed to tear gas, do not shower "
-              "with hot water. Hot water will open up your pores "
+              "If you were EXPOSED to TEAR GAS, DO NOT SHOWER WITH HOT WATER. "
+              "Hot water will open up your pores "
               "and the chemicals from the tear gas will seep further "
-              "into your skin. This can end in severe skin irritation. "
-              "Do not take a bath if exposed to tear gas, as you will "
-              "only soak in all the chemicals you were exposed to earlier.\n\n"
-              "Take off your clothing and wash it using cold water.\n\n"
-              "Disinfect any of your personal items which might have been exposed to germs at the protest.\n\n"
-              "Take care of your well-being. Protests and be physically and mentally demanding. Make sure to drink water, eat properly, and give yourself a breather to relax.",
+              "into your skin. This can end in severe skin irritation\n\n"
+              "• Do not take a bath either, if exposed to tear gas, as you will "
+              "only soak in all the chemicals you were exposed to earlier\n\n"
+              "• Take off your clothing and wash it using cold water\n\n"
+              "• Disinfect any of your personal items which might have been exposed to germs at the protest\n\n"
+              "• Take care of your well-being. Protests and be physically and mentally demanding. Make sure to drink water, eat properly, and give yourself a breather to relax",
       image: "Assets/Images/cool.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1096.jpg",
       color: Color(0xFFd4aa78),
