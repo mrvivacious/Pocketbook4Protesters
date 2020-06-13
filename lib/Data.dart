@@ -94,7 +94,8 @@ List<Planet> planets = [
               "only soak in all the chemicals you were exposed to earlier\n\n"
               "• Take off your clothing and wash it using cold water\n\n"
               "• Disinfect any of your personal items which might have been exposed to germs at the protest\n\n"
-              "• Take care of your well-being. Protests and be physically and mentally demanding. Make sure to drink water, eat properly, and give yourself a breather to relax",
+              "• Take care of your well-being. Protests and be physically and mentally demanding. Make sure to drink water, eat properly, and give yourself a breather to relax\n\n"
+              "• Ensure you monitor yourself for COVID-19 symptoms and quarantine if need be -- plus, there are ways to show your support while at home (see \"More Resources\")",
       image: "Assets/Images/cool.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1096.jpg",
       color: Color(0xFFd4aa78),
