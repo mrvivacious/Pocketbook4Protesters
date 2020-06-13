@@ -47,7 +47,15 @@ List<Planet> planets = [
   const Planet(
       id: "4",
       name: "Bail Resources",
-      description: "Earth is the third planet from the Sun and the only object in the Universe known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, Earth's only natural satellite. Earth revolves around the Sun in 365.26 days, a period known as an Earth year. During this time, Earth rotates about its axis about 366.26 times.",
+      description: "Pro-bono is a legal representation offered by criminal defense "
+          "attorneys, provided for free or at a lowered cost.\n\n"
+          "Pro-bono represntation for protesters in Chicago:\n"
+          "• Firm: Saeed and Little \nsllawfirm.com/contact-u \n317-721-9214\n\n"
+          "• Firm: Buckley Law Group \n808-927-1621\n\n"
+          "• Lawyer: Andrea Bonds \n773-624-8355\n\n"
+          "• First Defense Legal Aid Police Custody Hotline: \n1-800-LAWREP4 (529-7374) \nMUST CALL WITHIN THE FIRST 48 HOURS OF BEING ARRESTED\n\n"
+          "• NLG Criminal Defense Coordinator: \nnlg.chi.crimdefense@gmail.com \n773-309-1198 \n(Limited capacity of free cases being taken but there are reduced prices available to those who cannot afford an attorney), "
+          "\n(Phone number is not staffed 24/7 and is not a reliable number to call while arrested -- call First Defense Legal Aid Police Custody Hotline)",
       image: "Assets/Images/BLM.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1227.jpg",
       color: Color(0xFFa16e4b),
@@ -85,6 +93,15 @@ List<Planet> planets = [
       id: "7",
       name: "More resources",
       description: "Mercury is the smallest and innermost planet in the Solar System. Its orbital period around the Sun of 88 days is the shortest of all the planets in the Solar System. It is named after the Roman deity Mercury, the messenger to the gods.",
+      image: "Assets/Images/cool.jpg",
+      picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
+      color: Color(0xFFe6bc98),
+      textColor: Colors.black
+  ),
+  const Planet(
+      id: "8",
+      name: "About",
+      description: "This app made by uiuc people hell yea",
       image: "Assets/Images/cool.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
       color: Color(0xFFe6bc98),

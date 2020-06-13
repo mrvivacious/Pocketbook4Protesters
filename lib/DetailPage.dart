@@ -62,7 +62,7 @@ class DetailPage extends StatelessWidget {
 //                  new Separator(),
                   new Text(
                       planet.description,
-                      style: new TextStyle(color: planet.textColor),
+                      style: new TextStyle(color: Colors.white, fontSize: 18.0),
                   ),
                 ],
               ),
