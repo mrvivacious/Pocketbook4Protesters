@@ -64,7 +64,18 @@ List<Planet> planets = [
   const Planet(
       id: "5",
       name: "Before Protesting",
-      description: "Neptune is the eighth and farthest known planet from the Sun in the Solar System. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. Neptune is 17 times the mass of Earth and is slightly more massive than its near-twin Uranus, which is 15 times the mass of Earth and slightly larger than Neptune. Neptune orbits the Sun once every 164.8 years at an average distance of 30.1 astronomical units (4.50×109 km). It is named after the Roman god of the sea and has the astronomical symbol ♆, a stylised version of the god Neptune's trident",
+      description: "• With respect to COVID-19, wear a face mask that covers your mouth "
+          "and nose to protect yourself and others\n\n"
+          "• Try your best to go with someone, especially in a pack of three or more. "
+          "In the case one of you gets arrested, the other two can find a pro-bono resource to "
+          "represent and possibly bail the person out (see \"Bail Resources\")\n\n"
+          "• Keep water and snacks on you to keep your energy up during protests during the summer heat\n\n"
+          "• Best to wear gym / running shoes, so that your walk can be comfortable and, if needed, you'll be ready to run\n\n"
+          "• Clothe yourself as much as you can to minimize skin contact with the gas and pepper spray "
+          "used by the police, as these can irritate your skin\n\n"
+          "• DO NOT WEAR CONTACTS -- gas and pepper spray can build up behind the contact, which can cause irritation and blindness. "
+          "If you do wear contacts and come into contact with any gas substance, DISCARD them IMMEDIATELY\n\n"
+          "• Posters are a great and easy way to display your message, and can also double as a shield -- build your poster out of plywood (via Home Depot...etc) to guard against rubber bullets, gas, ..., etc\n\n",
       image: "Assets/Images/blm_color.jpg",
       picture: "https://freenaturestock.s3.us-east-1.amazonaws.com/1624.jpg",
       color: Color(0xFFba8d57),
