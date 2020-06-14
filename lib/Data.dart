@@ -59,7 +59,15 @@ List<Planet> planets = [
   const Planet(
       id: "3",
       name: "Getting Arrested?",
-      description: "Neptune is the eighth and farthest known planet from the Sun in the Solar System. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. Neptune is 17 times the mass of Earth and is slightly more massive than its near-twin Uranus, which is 15 times the mass of Earth and slightly larger than Neptune. Neptune orbits the Sun once every 164.8 years at an average distance of 30.1 astronomical units (4.50×109 km). It is named after the Roman god of the sea and has the astronomical symbol ♆, a stylised version of the god Neptune's trident",
+      description: "• Attending a Protest\n"
+          "• Being Arrested\n"
+          ""
+          "• Violation of Rights\n"
+          "When possible, write down everything you remember when being apprehended, "
+          "and TAKE NOTE of the police officer’s badge, patrol car number, and the agency they work for\n"
+          "Try to get the contact information of the people who witnessed your arrest\n"
+          "If you suffered from any physical injuries, make sure to take pictures as they can be used as evidence\n"
+          "After gathering as much information and evidence as you can, “file a written complaint with the agency’s internal affairs division or civilian complaint board",
       image: "Assets/Images/blm_color.jpg",
       picture: "https://freenaturestock.s3.us-east-1.amazonaws.com/1624.jpg",
       color: Color(0xFF653821),
