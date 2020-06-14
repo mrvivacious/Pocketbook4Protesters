@@ -20,7 +20,7 @@ List<Planet> planets = [
   const Planet(
       id: "1",
       name: "Know Your Rights",
-      description: "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System after Mercury. In English, Mars carries a name of the Roman god of war, and is often referred to as the 'Red Planet' because the reddish iron oxide prevalent on its surface gives it a reddish appearance that is distinctive among the astronomical bodies visible to the naked eye. Mars is a terrestrial planet with a thin atmosphere, having surface features reminiscent both of the impact craters of the Moon and the valleys, deserts, and polar ice caps of Earth.",
+      description: "",
       image: "Assets/Images/a_better_world.jpg",
       picture: "https://raw.githubusercontent.com/sergiandreplace/planets-flutter/master/assets/img/mars.png",
       color: Color(0xFF3b2219),
@@ -28,8 +28,29 @@ List<Planet> planets = [
   ),
   const Planet(
       id: "2",
-      name: "Reasons For Arrests",
-      description: "Neptune is the eighth and farthest known planet from the Sun in the Solar System. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. Neptune is 17 times the mass of Earth and is slightly more massive than its near-twin Uranus, which is 15 times the mass of Earth and slightly larger than Neptune. Neptune orbits the Sun once every 164.8 years at an average distance of 30.1 astronomical units (4.50×109 km). It is named after the Roman god of the sea and has the astronomical symbol ♆, a stylised version of the god Neptune's trident",
+      name: "Reasons For Arrest",
+      description: "• Blocking Traffic and Entrances: \n"
+          "Protesters do not have the right to block pedestrian or vehicle traffic \n"
+          "Protesters do not have the right to prevent entry and exit from buildings \n"
+          "Performing the above actions is unlawful and can lead to arrest (public right to freedom of movement)\n\n"
+          "• Harassment: \n"
+          "Protesters do not have the right to pester pedestrians (blocking movement, forcing one's beliefs....etc)\n\n"
+          "• Disorderly Conduct: \n"
+          "Including, but not limited to...\n"
+          "Blocking traffic\n"
+          "Harassment\n"
+          "Fighting words\n\n"
+          "• Civil Disobedience: \n"
+          "Refusing to comply to laws as a form of protest can lawfully result in arrest\n\n"
+          "• Other Reasons for Arrest: \n"
+          "Including, but not limited to...\n"
+          "Resisting a police officer\n"
+          "Trespassing\n"
+          "Vandalism\n"
+          "Breaking curfew\n"
+          "Inciting violence due to discrimination\n"
+          "Misdemeanor mob action: two or more people planning to commit a crime\n"
+          "Felony mob action: two or more people who use violence to disturb the peace",
       image: "Assets/Images/blm_color.jpg",
       picture: "https://freenaturestock.s3.us-east-1.amazonaws.com/1624.jpg",
       color: Color(0xFF653821),
@@ -75,7 +96,7 @@ List<Planet> planets = [
           "used by the police, as these can irritate your skin\n\n"
           "• DO NOT WEAR CONTACTS -- gas and pepper spray can build up behind the contact, which can cause irritation and blindness. "
           "If you do wear contacts and come into contact with any gas substance, DISCARD them IMMEDIATELY\n\n"
-          "• Posters are a great and easy way to display your message, and can also double as a shield -- build your poster out of plywood (via Home Depot...etc) to guard against rubber bullets, gas, ..., etc\n\n",
+          "• Posters are a great and easy way to display your message, and can also double as a shield -- build your poster out of plywood (via Home Depot...etc) to guard against rubber bullets, gas, ..., etc",
       image: "Assets/Images/blm_color.jpg",
       picture: "https://freenaturestock.s3.us-east-1.amazonaws.com/1624.jpg",
       color: Color(0xFFba8d57),
