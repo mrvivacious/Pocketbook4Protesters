@@ -3,7 +3,7 @@ import 'package:pocketbook_for_protesters/DetailPage.dart';
 import 'Data.dart';
 
 class PlanetRow extends StatelessWidget {
-  final Planet planet;
+  final Data planet;
 
   PlanetRow(this.planet);
 

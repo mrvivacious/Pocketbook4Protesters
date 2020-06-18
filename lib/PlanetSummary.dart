@@ -5,7 +5,7 @@ import 'package:pocketbook_for_protesters/Separator.dart';
 
 
 class PlanetSummary extends StatelessWidget {
-  final Planet planet;
+  final Data planet;
   final bool horizontal;
 
   PlanetSummary(this.planet, {this.horizontal = true});

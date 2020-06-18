@@ -5,7 +5,7 @@ import 'package:pocketbook_for_protesters/Data.dart';
 import 'package:pocketbook_for_protesters/Separator.dart';
 
 class DetailPage extends StatelessWidget {
-  final Planet planet;
+  final Data planet;
 
   DetailPage(this.planet);
 

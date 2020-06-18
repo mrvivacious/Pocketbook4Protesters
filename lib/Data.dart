@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
-class Planet {
+class Data {
   final String id;
   final String name;
   final String description;
@@ -12,12 +12,12 @@ class Planet {
   final Color color;
   final Color textColor;
 
-  const Planet({this.id, this.name,
+  const Data({this.id, this.name,
     this.description, this.image, this.picture, this.color, this.textColor});
 }
 
-List<Planet> planets = [
-  const Planet(
+List<Data> planets = [
+  const Data(
       id: "1",
       name: "Know Your Rights",
       description: "• Fundamental Rights to Protest\n"
@@ -52,7 +52,7 @@ List<Planet> planets = [
       color: Color(0xFF3b2219),
       textColor: Colors.white
   ),
-  const Planet(
+  const Data(
       id: "2",
       name: "Reasons For Arrest",
       description: "• Blocking Traffic and Entrances: \n"
@@ -82,7 +82,7 @@ List<Planet> planets = [
       color: Color(0xFF653821),
       textColor: Colors.black
   ),
-  const Planet(
+  const Data(
       id: "3",
       name: "Getting Arrested?",
       description: "• Attending a Protest\n"
@@ -108,7 +108,7 @@ List<Planet> planets = [
       color: Color(0xFF653821),
       textColor: Colors.black
   ),
-  const Planet(
+  const Data(
       id: "4",
       name: "Bail Resources",
       description: "Pro-bono is a legal representation offered by criminal defense "
@@ -125,7 +125,7 @@ List<Planet> planets = [
       color: Color(0xFFa16e4b),
       textColor: Colors.black
   ),
-  const Planet(
+  const Data(
       id: "5",
       name: "Before Protesting",
       description: "• With respect to COVID-19, wear a face mask that covers your mouth "
@@ -145,7 +145,7 @@ List<Planet> planets = [
       color: Color(0xFFba8d57),
       textColor: Colors.black
   ),
-  const Planet(
+  const Data(
       id: "6",
       name: "After Protesting",
       description: "• When you get home after protesting, "
@@ -165,7 +165,7 @@ List<Planet> planets = [
       color: Color(0xFFd4aa78),
       textColor: Colors.black
   ),
-  const Planet(
+  const Data(
       id: "7",
       name: "More resources",
       description: "• Bail funds to donate to:\n"
@@ -194,7 +194,7 @@ List<Planet> planets = [
       color: Color(0xFFe6bc98),
       textColor: Colors.black
   ),
-  const Planet(
+  const Data(
       id: "8",
       name: "Works Cited",
       description: "American Civil Liberties Union of Illinois. (2015). Know Your Right To Protest In Chicago [PDF file]. Retrieved June 10, 2020, from\n"
@@ -213,10 +213,16 @@ List<Planet> planets = [
       color: Color(0xFFe6bc98),
       textColor: Colors.black
   ),
-  const Planet(
+  const Data(
       id: "9",
       name: "About",
-      description: "This app made by uiuc people hell yea",
+      description: "This app was made by\n"
+          "Elizabeth Garcia\n"
+          "Niharika Manda\n"
+          "Deeptha Subramaniam\n"
+          "Markus Brooks\n"
+          "Vivek Bhookya\n\n"
+          "Source code at github.com/mrvivacious/Pocketbook4Protesters",
       image: "Assets/Images/cool.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
       color: Color(0xFFe6bc98),
