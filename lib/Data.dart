@@ -196,6 +196,25 @@ List<Planet> planets = [
   ),
   const Planet(
       id: "8",
+      name: "Works Cited",
+      description: "American Civil Liberties Union of Illinois. (2015). Know Your Right To Protest In Chicago [PDF file]. Retrieved June 10, 2020, from\n"
+          "https://www.aclu-il.org/sites/default/files/know_your_right_to_protest_in_chicago.pdf\n\n"
+
+          "Protesters' Rights. (n.d.). Retrieved June 10, 2020, from\n"
+          "https://www.aclu.org/know-your-rights/protesters-rights/#i-want-to-take-pictures-or-shoot-video-at-a-protest\n\n"
+
+          "Rivera, J. M., & Fang, J. M. (n.d.). Retrieved from\n"
+          "https://covidcanidoit.com/Protest_V2.pdf\n\n"
+
+          "Google doc:\n"
+          "https://docs.google.com/spreadsheets/u/1/d/1t0a8CdfkJ20Wieh_W6UAsTP7st8dqQB0GOVcaJujR9I/htmlview?fbclid=IwAR0jkVZ4rkodYLgKliN7oFfyusaDm3OZMcsMIvMIvLXSSHvpPKJueySo1C8",
+      image: "Assets/Images/cool.jpg",
+      picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
+      color: Color(0xFFe6bc98),
+      textColor: Colors.black
+  ),
+  const Planet(
+      id: "9",
       name: "About",
       description: "This app made by uiuc people hell yea",
       image: "Assets/Images/cool.jpg",
