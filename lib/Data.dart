@@ -20,7 +20,33 @@ List<Planet> planets = [
   const Planet(
       id: "1",
       name: "Know Your Rights",
-      description: "",
+      description: "• Fundamental Rights to Protest\n"
+          "Fundamental right to protest is protected under all five clauses of the First Amendment:\n"
+          "“Freedom of speech”, “The right of the people peaceably to assemble”, and of our “Right to petition government for a redress of grievances.”\n"
+          "It may even be considered an expression of “The free exercise” or religion.\n"
+          "The “Freedom of the press” protects the rights of professional journalists and all those alike.\n"
+          "It is also protected by the “Right to association” which allows like-minded individuals to join and express a shared message\n\n"
+          "“The rights to protest in public places includes large gatherings like parades in the streets and rallies in the parks,"
+          "small gatherings (like pickets on sidewalks and vigils on government plazas), "
+          "and solitary expression (like one person holding a sign or distributing leaflets)\n\n"
+          "There are no regulation of messages, meaning that controversial protests in support of illegal activity, violence, or the overthrow of government is allowed\n\n"
+
+          "+ The three exceptions to this rule is: incitement, threats, and fighting words:\n"
+          "1. Incitement: speech used to cause law-breaking acts such as attacking someone or destroying property\n"
+          "2. Threats: message that can be seen to insinuate violence\n"
+          "3. Fighting words: saying offensive words with a particular individual that can provoke violence\n"
+          "- An exception to this rule are police officers. Police officers are trained officials who should be able to show restraint in these situations and ultimately need to keep their cool. They are not allowed to act violent due to fighting words. However, they are allowed to act out in the case of a real threat\n"
+          "- An example of fighting words being used, would be an angry face-to-face confrontation where a police officer may step in and arrest the two individuals\n"
+          "- Political messages such as flag burning and wearing a swastika are not seen as fighting words\n\n"
+
+          "• Counter-protests\n"
+          "The First Amendment protects the right to protest just like it protects the right to counter-protest\n"
+          "It is up to the police to make sure that there is peace amongst both groups while they are still able to actively speak about their beliefs\n"
+          "If there seems to be a commotion between both groups, the police may step in and separate the opposing groups, while allowing everyone else to stay around the same general area\n\n"
+
+          "• Recording Police\n"
+          "According to the First Amendment, it's within our right to take pictures of \"on-duty police officers in public places.\"\n"
+          "The First Amendment also \"protects live-stream video and audio of on-duty police in public places.\"",
       image: "Assets/Images/a_better_world.jpg",
       picture: "https://raw.githubusercontent.com/sergiandreplace/planets-flutter/master/assets/img/mars.png",
       color: Color(0xFF3b2219),
@@ -60,8 +86,17 @@ List<Planet> planets = [
       id: "3",
       name: "Getting Arrested?",
       description: "• Attending a Protest\n"
+          "When attending a protest, it is important to mentally prepare yourself for what may occur\n"
+          "If by any reason you are being arrested, it is best to stay calm and properly go about this stressful situation to avoid any mishaps\n\n"
           "• Being Arrested\n"
-          ""
+          "Be calm, stay put, and always keep your arms visible, even if you believe that you are being unlawfully arrested\n"
+          "Say that you are expressing your freedom of speech by peacefully protesting\n"
+          "Ask if you are free to leave -- if so, walk away carefully. If not, ask why you are being apprehended\n"
+          "You have the right to plead to the fifth. Ask for a lawyer and remain silent. Do not, in under any circumstances, say or sign anything without the presence of a lawyer\n"
+          "You have the right to a local phone call. Do not talk about your case over the phone to your lawyer seeing as police officers can be listening\n"
+          "You do not have to consent to a search. In fact, consenting to a search can consequently affect you later in court\n"
+          "Police officers may “pat you down” over your clothing if they suspect you are carrying a weapon, or they may just search you after an arrest\n"
+          "Police officers are not legally allowed to confiscate your phone and delete any photographs, videos, or data without a warrant (to stay on the safe side, get rid of any fingerprint and face recognition you have on your phone; stick to a passcode to prevent the deletion of criminalizing evidence that can be used against the police in court)\n\n"
           "• Violation of Rights\n"
           "When possible, write down everything you remember when being apprehended, "
           "and TAKE NOTE of the police officer’s badge, patrol car number, and the agency they work for\n"
@@ -133,7 +168,27 @@ List<Planet> planets = [
   const Planet(
       id: "7",
       name: "More resources",
-      description: "Mercury is the smallest and innermost planet in the Solar System. Its orbital period around the Sun of 88 days is the shortest of all the planets in the Solar System. It is named after the Roman deity Mercury, the messenger to the gods.",
+      description: "• Bail funds to donate to:\n"
+          "National Bail Fund Network: https://www.communityjusticeexchange.org/nbfn-directory\n"
+          "The Bail Project: https://secure.givelively.org/donate/the-bail-project\n"
+          "Chicago Community Bond Fund: https://chicagobond.org/, 7733091198\n\n"
+
+          "• Sign petitions:\n"
+          "https://blacklivesmatters.carrd.co/#more (mega thread of petitions to sign all relating to BLM)\n\n"
+
+          "• Watch to donate:\n"
+          "https://www.youtube.com/watch?v=bCgLa25fDHM&t=80s (with petitions in the description)\n"
+          "https://www.youtube.com/watch?v=WKo8OrBdLz8 (funds directly go towards the National Association for the Advancement of Colored People to help eliminate race-based discrimination)\n\n"
+
+          "• Vote in local elections:\n"
+          "Elect candidates who will act on reform\n\n"
+
+          "• Read:\n"
+          "Noughts and Crosses, by Malorie Blackman\n"
+          "Americanah, by Chimamanda Ngozi Adichie\n"
+          "The Moment of Lift: How Empowering Women Changes the World, by Melinda Gates\n"
+          "Stone Butch Blues, by Leslie Feinberg\n"
+          "Sister Outsider, by Audre Lorde",
       image: "Assets/Images/cool.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
       color: Color(0xFFe6bc98),
