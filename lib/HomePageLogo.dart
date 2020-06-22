@@ -4,7 +4,7 @@ class HomePageLogo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 //    final String logoSrc = "https://raw.githubusercontent.com/sergiandreplace/planets-flutter/master/assets/img/mars.png";
-    final String ourLogo = "Assets/Images/dfp.jpg";
+    final String ourLogo = "Assets/Images/p4p_logo_black.jpg";
 
     // Thank you, https://stackoverflow.com/questions/44275404/paint-a-circular-image-with-border
     return new Container(

@@ -55,7 +55,12 @@ class PlanetSummary extends StatelessWidget {
         crossAxisAlignment: horizontal ? CrossAxisAlignment.start : CrossAxisAlignment.center,
         children: <Widget>[
           new Container(height: 4.0),
-          new Text(planet.name, style: TextStyle(color: Colors.white, fontSize: 32.0),),
+          new Text(planet.name, style:
+          TextStyle(
+              color: Colors.white,
+              fontSize: 28.0
+           ),
+          ),
 //          new Container(height: 10.0),
 //          new Text(planet.location,),
 //          new Separator(),

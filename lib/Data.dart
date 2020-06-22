@@ -105,7 +105,7 @@ List<Data> planets = [
           "After gathering as much information and evidence as you can, “file a written complaint with the agency’s internal affairs division or civilian complaint board",
       image: "Assets/Images/blm_color.jpg",
       picture: "https://freenaturestock.s3.us-east-1.amazonaws.com/1624.jpg",
-      color: Color(0xFF653821),
+      color: Color(0xFFA56738),
       textColor: Colors.black
   ),
   const Data(
@@ -122,7 +122,7 @@ List<Data> planets = [
           "\n(Phone number is not staffed 24/7 and is not a reliable number to call while arrested -- call First Defense Legal Aid Police Custody Hotline)",
       image: "Assets/Images/BLM.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1227.jpg",
-      color: Color(0xFFa16e4b),
+      color: Color(0xFFC4894D),
       textColor: Colors.black
   ),
   const Data(
@@ -142,7 +142,7 @@ List<Data> planets = [
           "• Posters are a great and easy way to display your message, and can also double as a shield -- build your poster out of plywood (via Home Depot...etc) to guard against rubber bullets, gas, ..., etc",
       image: "Assets/Images/blm_color.jpg",
       picture: "https://freenaturestock.s3.us-east-1.amazonaws.com/1624.jpg",
-      color: Color(0xFFba8d57),
+      color: Color(0xFFD8A16D), // 0xFFba8d57),
       textColor: Colors.black
   ),
   const Data(
@@ -162,7 +162,7 @@ List<Data> planets = [
               "• Ensure you monitor yourself for COVID-19 symptoms and quarantine if need be -- plus, there are ways to show your support while at home (see \"More Resources\")",
       image: "Assets/Images/cool.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1096.jpg",
-      color: Color(0xFFd4aa78),
+      color: Color(0xFFE2C493),
       textColor: Colors.black
   ),
   const Data(
@@ -191,7 +191,7 @@ List<Data> planets = [
           "Sister Outsider, by Audre Lorde",
       image: "Assets/Images/cool.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
-      color: Color(0xFFe6bc98),
+      color: Color(0xFFF6BD8B),
       textColor: Colors.black
   ),
   const Data(
@@ -210,7 +210,7 @@ List<Data> planets = [
           "https://docs.google.com/spreadsheets/u/1/d/1t0a8CdfkJ20Wieh_W6UAsTP7st8dqQB0GOVcaJujR9I/htmlview?fbclid=IwAR0jkVZ4rkodYLgKliN7oFfyusaDm3OZMcsMIvMIvLXSSHvpPKJueySo1C8",
       image: "Assets/Images/cool.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
-      color: Color(0xFFe6bc98),
+      color: Color(0xFFF0C9A5),
       textColor: Colors.black
   ),
   const Data(
@@ -222,10 +222,12 @@ List<Data> planets = [
           "Deeptha Subramaniam\n"
           "Markus Brooks\n"
           "Vivek Bhookya\n\n"
-          "Source code at github.com/mrvivacious/Pocketbook4Protesters",
+          "Source code at github.com/mrvivacious/Pocketbook4Protesters\n\n"
+          "If you found this app useful, please share\n"
+          "Send feedback to jvnnvt@gmail.com, thank you",
       image: "Assets/Images/cool.jpg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
-      color: Color(0xFFe6bc98),
+      color: Color(0xFFF4CFB4),
       textColor: Colors.black
   ),
 ];

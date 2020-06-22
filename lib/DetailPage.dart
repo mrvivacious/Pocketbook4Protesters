@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:pocketbook_for_protesters/PlanetSummary.dart';
+import 'package:pocketbook_for_protesters/DataSummary.dart';
 import 'package:pocketbook_for_protesters/Data.dart';
 import 'package:pocketbook_for_protesters/Separator.dart';
 
@@ -62,7 +62,7 @@ class DetailPage extends StatelessWidget {
 //                  new Separator(),
                   new Text(
                       planet.description,
-                      style: new TextStyle(color: Colors.white, fontSize: 18.0),
+                      style: new TextStyle(color: Colors.white, fontSize: 16.0),
                   ),
                 ],
               ),

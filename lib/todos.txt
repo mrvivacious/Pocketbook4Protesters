@@ -6,7 +6,6 @@ Track the app progress
 == TODO ==
 Change the UI of the detail pages
 Replace the planet data with the protest info
-Work cited page
 
 -- Low priority
 Dark theme
@@ -19,6 +18,8 @@ Use different image banners (or just colors....something nice)
 Figure out how to use resources from Assets/
 Upload the logo
 Do the tutorial
+Work cited page
+
 
 
 Pictures from https://freenaturestock.com/archive
