@@ -239,3 +239,4 @@ List<Data> planets = [
 //0xFFa16e4b
 //0xFFd4aa78
 //0xFFe6bc98
+// Also, https://image.shutterstock.com/image-vector/skin-tones-color-palette-vector-260nw-516698563.jpg

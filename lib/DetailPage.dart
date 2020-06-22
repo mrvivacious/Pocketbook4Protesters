@@ -31,6 +31,7 @@ class DetailPage extends StatelessWidget {
           gradient: new LinearGradient(
             colors: <Color>[
               new Color(0x00736AB7),
+
 //              new Color(0xFF736AB7)
               planet.color
             ],
