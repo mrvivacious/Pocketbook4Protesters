@@ -44,6 +44,18 @@ flutter:
   assets:
     - Assets/Images/p4p.jpg
     - Assets/Images/p4p_logo_black.jpg
+
+    # https://unsplash.com/photos/tgtXmNdZeXQ
+    - Assets/Images/names_ZV.jpeg
+
+    # https://unsplash.com/photos/M771L1E4uOs
+    - Assets/Images/taylor_MO.jpeg
+
+    # https://unsplash.com/photos/2Xed8DRwtFE
+    - Assets/Images/blmtlm_MV.jpeg
+
+
+
     - Assets/Images/cool.jpg
     - Assets/Images/BLM.jpg
     - Assets/Images/a_better_world.jpg

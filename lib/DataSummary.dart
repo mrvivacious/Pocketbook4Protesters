@@ -3,7 +3,6 @@ import 'package:pocketbook_for_protesters/DetailPage.dart';
 import 'package:pocketbook_for_protesters/Data.dart';
 import 'package:pocketbook_for_protesters/Separator.dart';
 
-
 class PlanetSummary extends StatelessWidget {
   final Data planet;
   final bool horizontal;
@@ -11,7 +10,6 @@ class PlanetSummary extends StatelessWidget {
   PlanetSummary(this.planet, {this.horizontal = true});
 
   PlanetSummary.vertical(this.planet): horizontal = false;
-
 
   @override
   Widget build(BuildContext context) {
@@ -32,8 +30,6 @@ class PlanetSummary extends StatelessWidget {
 //      ),
     );
 
-
-
 //    Widget _planetValue({String value, String image}) {
 //      return new Container(
 //        child: new Row(
@@ -46,7 +42,6 @@ class PlanetSummary extends StatelessWidget {
 //        ),
 //      );
 //    }
-
 
     final planetCardContent = new Container(
       margin: new EdgeInsets.fromLTRB(horizontal ? 76.0 : 16.0, horizontal ? 16.0 : 42.0, 16.0, 16.0),
@@ -89,7 +84,6 @@ class PlanetSummary extends StatelessWidget {
       ),
     );
 
-
     final planetCard = new Container(
       child: planetCardContent,
       height: horizontal ? 94.0 : 124.0,
@@ -109,7 +103,6 @@ class PlanetSummary extends StatelessWidget {
         ],
       ),
     );
-
 
     return new GestureDetector(
         onTap: horizontal

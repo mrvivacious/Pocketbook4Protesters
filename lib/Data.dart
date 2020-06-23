@@ -47,7 +47,7 @@ List<Data> planets = [
           "• Recording Police\n"
           "According to the First Amendment, it's within our right to take pictures of \"on-duty police officers in public places.\"\n"
           "The First Amendment also \"protects live-stream video and audio of on-duty police in public places.\"",
-      image: "Assets/Images/a_better_world.jpg",
+      image: "Assets/Images/names_ZV.jpeg",
       picture: "https://raw.githubusercontent.com/sergiandreplace/planets-flutter/master/assets/img/mars.png",
       color: Color(0xFF3b2219),
       textColor: Colors.white
@@ -77,7 +77,7 @@ List<Data> planets = [
           "Inciting violence due to discrimination\n"
           "Misdemeanor mob action: two or more people planning to commit a crime\n"
           "Felony mob action: two or more people who use violence to disturb the peace",
-      image: "Assets/Images/blm_color.jpg",
+      image: "Assets/Images/taylor_MO.jpeg",
       picture: "https://freenaturestock.s3.us-east-1.amazonaws.com/1624.jpg",
       color: Color(0xFF653821),
       textColor: Colors.black
@@ -103,7 +103,7 @@ List<Data> planets = [
           "Try to get the contact information of the people who witnessed your arrest\n"
           "If you suffered from any physical injuries, make sure to take pictures as they can be used as evidence\n"
           "After gathering as much information and evidence as you can, “file a written complaint with the agency’s internal affairs division or civilian complaint board",
-      image: "Assets/Images/blm_color.jpg",
+      image: "Assets/Images/blmtlm_MV.jpeg",
       picture: "https://freenaturestock.s3.us-east-1.amazonaws.com/1624.jpg",
       color: Color(0xFFA56738),
       textColor: Colors.black
