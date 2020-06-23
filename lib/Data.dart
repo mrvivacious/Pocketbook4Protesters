@@ -208,7 +208,7 @@ List<Data> planets = [
 
           "Google doc:\n"
           "https://docs.google.com/spreadsheets/u/1/d/1t0a8CdfkJ20Wieh_W6UAsTP7st8dqQB0GOVcaJujR9I/htmlview?fbclid=IwAR0jkVZ4rkodYLgKliN7oFfyusaDm3OZMcsMIvMIvLXSSHvpPKJueySo1C8",
-      image: "Assets/Images/63years_KK.jpeg",
+      image: "Assets/Images/nopeace_CB.jpeg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
       color: Color(0xFFF0C9A5),
       textColor: Colors.black
@@ -219,13 +219,16 @@ List<Data> planets = [
       description: "This app was made by\n"
           "Elizabeth Garcia\n"
           "Niharika Manda\n"
-          "Deeptha Subramaniam\n"
+          "Nicolas Cano\n"
+          "Deeptha Subramanian\n"
           "Markus Brooks\n"
           "Vivek Bhookya\n\n"
           "Source code at github.com/mrvivacious/Pocketbook4Protesters\n\n"
-          "If you found this app useful, please share\n"
-          "Send feedback to jvnnvt@gmail.com, thank you",
-      image: "Assets/Images/63years_KK.jpeg",
+          "If you found this app useful, please share\n\n"
+          "Send feedback to elizabethgarcia035@gmail.com, thank you\n\n\n"
+          "App was built via a tutorial,\n"
+          "https://sergiandreplace.com/planets-flutter-from-design-to-app/",
+      image: "Assets/Images/floyd_munshots.jpeg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
       color: Color(0xFFF4CFB4),
       textColor: Colors.black

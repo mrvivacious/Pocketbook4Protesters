@@ -1,6 +1,8 @@
 # pocketbook_for_protesters
 
 BLM 2020 protest companion
+<br>
+Images used via https://unsplash.com/license
 
 ## Getting Started
 

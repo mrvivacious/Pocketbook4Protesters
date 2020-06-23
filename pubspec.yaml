@@ -45,6 +45,7 @@ flutter:
     - Assets/Images/p4p.jpg
     - Assets/Images/p4p_logo_black.jpg
 
+    # https://unsplash.com/license
     # https://unsplash.com/photos/tgtXmNdZeXQ
     - Assets/Images/names_ZV.jpeg
 
@@ -66,6 +67,11 @@ flutter:
     # https://unsplash.com/photos/W5UJZF4lnIU
     - Assets/Images/privilege_JE.jpeg
 
+    # https://unsplash.com/photos/2LEKXzFNitA
+    - Assets/Images/nopeace_CB.jpeg
+
+    # https://unsplash.com/photos/_vAC0je-hKo
+    - Assets/Images/floyd_munshots.jpeg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
