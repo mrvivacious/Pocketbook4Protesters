@@ -189,7 +189,7 @@ List<Data> planets = [
           "The Moment of Lift: How Empowering Women Changes the World, by Melinda Gates\n"
           "Stone Butch Blues, by Leslie Feinberg\n"
           "Sister Outsider, by Audre Lorde",
-      image: "Assets/Images/cool.jpg",
+      image: "Assets/Images/privilege_JE.jpeg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
       color: Color(0xFFF6BD8B),
       textColor: Colors.black
@@ -208,7 +208,7 @@ List<Data> planets = [
 
           "Google doc:\n"
           "https://docs.google.com/spreadsheets/u/1/d/1t0a8CdfkJ20Wieh_W6UAsTP7st8dqQB0GOVcaJujR9I/htmlview?fbclid=IwAR0jkVZ4rkodYLgKliN7oFfyusaDm3OZMcsMIvMIvLXSSHvpPKJueySo1C8",
-      image: "Assets/Images/cool.jpg",
+      image: "Assets/Images/63years_KK.jpeg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
       color: Color(0xFFF0C9A5),
       textColor: Colors.black
@@ -225,7 +225,7 @@ List<Data> planets = [
           "Source code at github.com/mrvivacious/Pocketbook4Protesters\n\n"
           "If you found this app useful, please share\n"
           "Send feedback to jvnnvt@gmail.com, thank you",
-      image: "Assets/Images/cool.jpg",
+      image: "Assets/Images/63years_KK.jpeg",
       picture: "http://freenaturestock.s3.amazonaws.com/1187.jpg",
       color: Color(0xFFF4CFB4),
       textColor: Colors.black
