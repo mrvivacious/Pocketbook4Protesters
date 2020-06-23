@@ -120,7 +120,7 @@ List<Data> planets = [
           "• First Defense Legal Aid Police Custody Hotline: \n1-800-LAWREP4 (529-7374) \nMUST CALL WITHIN THE FIRST 48 HOURS OF BEING ARRESTED\n\n"
           "• NLG Criminal Defense Coordinator: \nnlg.chi.crimdefense@gmail.com \n773-309-1198 \n(Limited capacity of free cases being taken but there are reduced prices available to those who cannot afford an attorney), "
           "\n(Phone number is not staffed 24/7 and is not a reliable number to call while arrested -- call First Defense Legal Aid Police Custody Hotline)",
-      image: "Assets/Images/BLM.jpg",
+      image: "Assets/Images/asl_CV.jpeg",
       picture: "http://freenaturestock.s3.amazonaws.com/1227.jpg",
       color: Color(0xFFC4894D),
       textColor: Colors.black
@@ -140,7 +140,7 @@ List<Data> planets = [
           "• DO NOT WEAR CONTACTS -- gas and pepper spray can build up behind the contact, which can cause irritation and blindness. "
           "If you do wear contacts and come into contact with any gas substance, DISCARD them IMMEDIATELY\n\n"
           "• Posters are a great and easy way to display your message, and can also double as a shield -- build your poster out of plywood (via Home Depot...etc) to guard against rubber bullets, gas, ..., etc",
-      image: "Assets/Images/blm_color.jpg",
+      image: "Assets/Images/human_HR.jpeg",
       picture: "https://freenaturestock.s3.us-east-1.amazonaws.com/1624.jpg",
       color: Color(0xFFD8A16D), // 0xFFba8d57),
       textColor: Colors.black

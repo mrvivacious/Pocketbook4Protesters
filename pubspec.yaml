@@ -54,6 +54,11 @@ flutter:
     # https://unsplash.com/photos/2Xed8DRwtFE
     - Assets/Images/blmtlm_MV.jpeg
 
+    # https://unsplash.com/photos/mAJMtF9_q5c
+    - Assets/Images/asl_CV.jpeg
+
+    # https://unsplash.com/photos/vxmAteWknfc
+    - Assets/Images/human_HR.jpeg
 
 
     - Assets/Images/cool.jpg
