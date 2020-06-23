@@ -160,7 +160,7 @@ List<Data> planets = [
               "• Disinfect any of your personal items which might have been exposed to germs at the protest\n\n"
               "• Take care of your well-being. Protests and be physically and mentally demanding. Make sure to drink water, eat properly, and give yourself a breather to relax\n\n"
               "• Ensure you monitor yourself for COVID-19 symptoms and quarantine if need be -- plus, there are ways to show your support while at home (see \"More Resources\")",
-      image: "Assets/Images/cool.jpg",
+      image: "Assets/Images/63years_KK.jpeg",
       picture: "http://freenaturestock.s3.amazonaws.com/1096.jpg",
       color: Color(0xFFE2C493),
       textColor: Colors.black
