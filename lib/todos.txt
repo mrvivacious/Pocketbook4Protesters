@@ -2,10 +2,11 @@ Todos.txt
 Track the app progress
 
 == CURRENT ==
+Prepare for Android release
 
 == TODO ==
+Prepare for iOS release
 Change the UI of the detail pages
-Replace the planet data with the protest info
 
 -- Low priority
 Dark theme
@@ -19,6 +20,11 @@ Figure out how to use resources from Assets/
 Upload the logo
 Do the tutorial
 Work cited page
+Replace the planet data with the protest info
+
+Changed name to Protest Pal
+Added Android icon
+
 
 
 
