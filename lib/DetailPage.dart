@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:pocketbook_for_protesters/DataSummary.dart';
 import 'package:pocketbook_for_protesters/Data.dart';
 import 'package:pocketbook_for_protesters/Separator.dart';
@@ -11,6 +12,8 @@ class DetailPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setEnabledSystemUIOverlays([]);
+
     Container _getBackground() {
       return new Container(
 //        child: new Image.network(planet.picture,
