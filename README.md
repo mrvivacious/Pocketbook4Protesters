@@ -2,6 +2,8 @@
 
 BLM 2020 protest companion
 <br>
+[Android app](https://play.google.com/store/apps/details?id=us.mrvivacio.protest_pal)
+<br>
 Images used via https://unsplash.com/license
 
 ## Getting Started
